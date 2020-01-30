@@ -7,8 +7,8 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab-07-api-server/pull/1)
-- [ci/cd](https://github.com/401-advanced-javascript-Dante/lab-07-api-server/actions/runs/31972508) (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab08/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-Dante/lab08/actions/runs/32802579) (GitHub Actions)
 
 ### Setup
 
@@ -28,4 +28,4 @@ done
 
 #### UML
 
-![Express](https://i.ibb.co/1RTygZF/apimodel.jpg)
+![Express](https://i.ibb.co/8KkMXMH/Routing.jpg)
